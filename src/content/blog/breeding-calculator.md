@@ -4,6 +4,7 @@ pubDatetime: 2024-01-27T08:15:30.416Z
 title: "Palworld Breeding Calculator"
 slug: "breeding-calculator"
 featured: true
+ogImage: ../../assets/images/palworld-helper-og.png
 tags:
   - tools
   - breeding

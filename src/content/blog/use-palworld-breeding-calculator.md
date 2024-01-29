@@ -4,7 +4,7 @@ pubDatetime: 2024-01-04T09:30:41.816Z
 title: How to Use the Palworld Breeding Calculator for Best Results
 slug: "use-palworld-breeding-calculator"
 featured: true
-ogImage: ../../assets/images/AstroPaper-v4.png
+ogImage: ../../assets/images/palworld-helper-og.png
 tags:
   - guide
   - breeding

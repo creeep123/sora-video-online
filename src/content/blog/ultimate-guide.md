@@ -4,12 +4,14 @@ pubDatetime: 2024-01-27T21:30:15.782Z
 title: "Ultimate Guide to Palworld Breeding: Strategies, Tips, and Tricks"
 slug: "ultimate-guide"
 featured: true
-ogImage: ../../assets/images/AstroPaper-v4.png
+ogImage: ../../assets/images/palworld-helper-og.png
 tags:
   - guide
   - breeding
 description: "Discover effective Palworld breeding strategies, tips for optimal pairings, and tricks to enhance your Pals' traits."
 ---
+
+![Palworld Image](../../../public/palworld-3-pals.png)
 
 ## Introduction
 
