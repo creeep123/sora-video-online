@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Moses Yang",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "Palworld Helper",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "palworld-helper-og.png",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
