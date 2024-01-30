@@ -17,6 +17,8 @@ description: "a powerful tool designed to help players find the best breeding co
   <iframe src="https://palworld.gg/breeding-calculator" width="100%" height="1000" name="breeding-calculator" title="This is breeding-calculator"></iframe>
 </div>
 
+## 👉 <a src="https://palworld.gg/breeding-calculator" rel="nofollow">Palworld.GG - Breeding Calculator</a>
+
 ## How to Use
 
 The Palworld Breeding Calculator is a powerful tool designed to help players find the best breeding combinations for their Pals. Here’s how you can make the most of it:

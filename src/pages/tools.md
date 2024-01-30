@@ -22,21 +22,21 @@ title: ""
       <!-- Feature Item -->
       <div class="relative mb-8 flex flex-col rounded-2xl border border-solid border-black p-8 [box-shadow:rgb(0,_0,_0)_9px_9px] lg:mb-4">
         <div class="absolute -top-8 bottom-auto left-auto right-4 flex h-16 w-16 flex-col items-center justify-center rounded-full border border-solid border-[#9b9b9b] bg-white [box-shadow:rgb(0,_0,_0)_0px_5px] lg:right-8">
+          <img src="https://assets.website-files.com/63904f663019b0d8edf8d57c/639158510667812dff08e1af_image%203-4.png" alt="" class="relative z-10 inline-block h-8" />
+          <div class="absolute z-0 h-8 w-8 rounded-full border border-[#c0d1ff] bg-[#c0d1ff]"></div>
+        </div>
+        <a href="/posts/explore-palworld-database"><p class="mb-4 text-xl font-semibold">Palworld Database</p></a>
+        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam, purus sit.</p>
+      </div>
+      <!-- Feature Item -->
+      <div class="relative mb-8 flex flex-col rounded-2xl border border-solid border-black p-8 [box-shadow:rgb(0,_0,_0)_9px_9px] lg:mb-4">
+        <div class="absolute -top-8 bottom-auto left-auto right-4 flex h-16 w-16 flex-col items-center justify-center rounded-full border border-solid border-[#9b9b9b] bg-white [box-shadow:rgb(0,_0,_0)_0px_5px] lg:right-8">
           <img src="https://assets.website-files.com/63904f663019b0d8edf8d57c/63915859fa889834c4f1ff92_image%203-2.png" alt="" class="relative z-10 inline-block h-8" />
           <div class="absolute z-0 h-8 w-8 rounded-full border border-[#c0d1ff] bg-[#c0d1ff]"></div>
         </div>
         <p class="mb-4 text-xl font-semibold">More Tools</p>
         <p>The community is working on developing more tools.</p>
       </div>
-      <!-- Feature Item -->
-      <!-- <div class="relative mb-8 flex flex-col rounded-2xl border border-solid border-black p-8 [box-shadow:rgb(0,_0,_0)_9px_9px] lg:mb-4">
-        <div class="absolute -top-8 bottom-auto left-auto right-4 flex h-16 w-16 flex-col items-center justify-center rounded-full border border-solid border-[#9b9b9b] bg-white [box-shadow:rgb(0,_0,_0)_0px_5px] lg:right-8">
-          <img src="https://assets.website-files.com/63904f663019b0d8edf8d57c/639158510667812dff08e1af_image%203-4.png" alt="" class="relative z-10 inline-block h-8" />
-          <div class="absolute z-0 h-8 w-8 rounded-full border border-[#c0d1ff] bg-[#c0d1ff]"></div>
-        </div>
-        <p class="mb-4 text-xl font-semibold">Flexibility</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam, purus sit.</p>
-      </div> -->
       <!-- Feature Item -->
       <!-- <div class="relative mb-8 flex flex-col rounded-2xl border border-solid border-black p-8 [box-shadow:rgb(0,_0,_0)_9px_9px] lg:mb-4">
         <div class="absolute -top-8 bottom-auto left-auto right-4 flex h-16 w-16 flex-col items-center justify-center rounded-full border border-solid border-[#9b9b9b] bg-white [box-shadow:rgb(0,_0,_0)_0px_5px] lg:right-8">
