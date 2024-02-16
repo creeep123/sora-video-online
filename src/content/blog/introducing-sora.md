@@ -1,6 +1,6 @@
 ---
-author: Sat Naing
-pubDatetime: 2024-02-16T21:30:15.782Z
+author: David Chloe
+pubDatetime: 2024-02-16T11:30:15.782Z
 title: "Introducing OpenAI's Sora: Revolutionizing Video Creation"
 slug: "introducing-sora"
 featured: true
