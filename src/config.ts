@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://palworldhelper.online/", // replace this with your deployed domain
   author: "Moses Yang",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "Palworld Helper",
+  title: "Sora Video",
   ogImage: "palworld-helper-og.png",
   lightAndDarkMode: true,
   postPerPage: 3,
