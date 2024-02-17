@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "http://sora-video.online/", // replace this with your deployed domain
   author: "Moses Yang",
-  desc: "Discover the future of content creation with Sora Video, powered by most revolutionary text-to-video technology. Unleash your creativity and transform text into stunning videos effortlessly. Explore our comprehensive guides, tips, and tools designed for creators of all levels. Join Sora Video to elevate your storytelling and engage your audience with captivating video content.",
+  desc: "Explore Sora Video, the pinnacle of content creation powered by most powerful text-to-video technology. Elevate storytelling with effortless transformation of text into captivating videos. Ideal for creators seeking to engage audiences through innovative video content. Start your creative journey with Sora Video today.",
   title: "Sora Video",
   ogImage: "Sora_Video_OG.jpg",
   lightAndDarkMode: true,
