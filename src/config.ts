@@ -1,11 +1,11 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://palworldhelper.online/", // replace this with your deployed domain
+  website: "http://sora-video.online/", // replace this with your deployed domain
   author: "Moses Yang",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "Discover the future of content creation with Sora Video, powered by most revolutionary text-to-video technology. Unleash your creativity and transform text into stunning videos effortlessly. Explore our comprehensive guides, tips, and tools designed for creators of all levels. Join Sora Video to elevate your storytelling and engage your audience with captivating video content.",
   title: "Sora Video",
-  ogImage: "palworld-helper-og.png",
+  ogImage: "Sora_Video_OG.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
