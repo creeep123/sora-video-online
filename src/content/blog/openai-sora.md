@@ -1,8 +1,8 @@
 ---
 author: Alex Mercer
-pubDatetime: "2024-02-20T14:30:00Z"
+pubDatetime: 2024-02-20T14:30:00Z
 title: "Exploring the Innovative Nexus: OpenAI's Sora and Its Impact on Digital Creativity"
-slug: "exploring-innovative-nexus-openai-sora-impact-digital-creativity"
+slug: "openai-sora"
 featured: true
 ogImage: /Sora_Video_OG.jpg
 tags:
